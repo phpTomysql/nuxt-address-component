@@ -11,7 +11,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
     script:[
-      {src: 'https://maps.googleapis.com/maps/api/js?key=AIzaSyBuIQAPJjQraoK9hR2l5ibY6iFilS7lIhE&libraries=places'}
+      {src: 'https://maps.googleapis.com/maps/api/js?key=KEY&libraries=places'}
     ]
   },
 
